@@ -3015,7 +3015,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4015da81acf394e6b88b179cac865108, type: 3}
       propertyPath: m_Name
-      value: HokageBase
+      value: HokageOffice
       objectReference: {fileID: 0}
     - target: {fileID: 3774608951414501026, guid: 4015da81acf394e6b88b179cac865108, type: 3}
       propertyPath: m_LocalScale.y
