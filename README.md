@@ -10,7 +10,8 @@
 
 ### Buildings
 
-* [Hokage Base](https://www.cgtrader.com/free-3d-models/various/various-models/hokage-base) - @naitthe3d
+* [Hokage Office](https://www.cgtrader.com/free-3d-models/various/various-models/hokage-base) - @naitthe3d
+* [Hokage Office Entrance](https://sketchfab.com/3d-models/hokage-office-07512299acb64f40a4b36d63286de7cf) - @elre
 * [Ninja Academy](https://www.cgtrader.com/free-3d-models/exterior/house/naruto-ninja-academy) - @mtereckhovaa
 * [Japanese Shop](https://www.cgtrader.com/free-3d-models/exterior/house/japanese-house-d19a92c2-0540-4b8c-8a71-adda416cb637) - @mtereckhovaa
 * [Ichiraku Ramen](https://sketchfab.com/3d-models/ichiraku-ramen-naruto-c57a7c0bdca4446aade5241cc621f56e) - @Doverlock
