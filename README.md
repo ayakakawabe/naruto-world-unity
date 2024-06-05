@@ -5,6 +5,9 @@
 ### Character
 * [Namikaze Minato](https://hub.vroid.com/characters/1723264462098099129/models/8770144268432617590) - @HamuraOtsutsuki
 
+### Environment
+* [Hokage Mountain](https://sketchfab.com/3d-models/six-hokage-mountain-c9cc3357a6ee46c2bff49c94e409fa99) - @jmartinez20592
+
 ### Buildings
 
 * [Hokage Base](https://www.cgtrader.com/free-3d-models/various/various-models/hokage-base) - @naitthe3d
